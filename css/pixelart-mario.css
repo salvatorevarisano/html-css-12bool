@@ -1,0 +1,56 @@
+.wrap-container {
+    width: 600px;
+    margin-top: 50px;
+}
+
+[class^="col-"] {
+    height: 25px;
+}
+
+.black {
+    background-color: #000;
+}
+
+.red {
+    background-color: #f10b0a;
+}
+
+.red-2 {
+    background-color: #b81210;
+}
+
+.blue {
+    background-color: #3168f8;
+}
+
+.blue-2 {
+    background-color: #1d24d0;
+}
+
+.white {
+    background-color: #f5f4f8;
+}
+
+.grey {
+    background-color: #c4c9c5;
+}
+
+.pink {
+    background-color: #efda98;
+}
+
+.pink-2 {
+    background-color: #f59b18;
+}
+
+.brown { 
+    background-color: #642108;
+}
+
+.brown-2 { 
+    background-color: #863a0e;
+}
+
+.yellow {
+    background-color: #f8d708;
+}
